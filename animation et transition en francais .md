@@ -4,7 +4,7 @@ Exemples visuels avec code à tester directement
 Comparaison facile entre transitions et animations  
 Navigation simple par onglets  
 Effets interactifs au survol et animations automatiques
-<br>
+
 
 
 
